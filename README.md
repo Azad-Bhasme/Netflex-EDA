@@ -25,7 +25,7 @@ This project performs **Exploratory Data Analysis (EDA)** on a Netflix dataset c
 
 ### 📊 Preview
 
-You can view the full notebook [here](https://github.com/Azad-Bhasme/Netflix-EDA/blob/main/Netflix_data_EDA%20.ipynb
+You can view the full notebook [here](https://nbviewer.org/github/Azad-Bhasme/Netflix-EDA/blob/main/Netflix_data_EDA%20.html
 ) or run it interactively on Google Colab.
 
 ---
