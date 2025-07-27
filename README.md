@@ -25,8 +25,8 @@ This project performs **Exploratory Data Analysis (EDA)** on a Netflix dataset c
 
 ### 📊 Preview
 
-You can view the full notebook here: [Netflix\_EDA.ipynb](Netflix_EDA.ipynb)
-Or interact with it live using **Google Colab**.
+You can view the full notebook [here](https://nbviewer.org/github/Azad-Bhasme/Uber-Rides-EDA/blob/main/UberData_EDA.html
+) or run it interactively on Google Colab.
 
 ---
 
